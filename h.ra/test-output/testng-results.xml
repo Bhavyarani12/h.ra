@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="224444" started-at="2019-09-12T22:02:41 IST" finished-at="2019-09-12T22:06:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="224444" started-at="2019-09-12T22:02:41 IST" finished-at="2019-09-12T22:06:26 IST">
+      <class name="h.ra.h.ra.admin">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:h.ra.h.ra.admin@6e6c3152]" name="startbrowser" is-config="true" duration-ms="23581" started-at="2019-09-12T22:02:41 IST" finished-at="2019-09-12T22:03:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:h.ra.h.ra.admin@6e6c3152]" name="login" duration-ms="1431" started-at="2019-09-12T22:03:05 IST" finished-at="2019-09-12T22:03:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="add_admin()[pri:1, instance:h.ra.h.ra.admin@6e6c3152]" name="add_admin" duration-ms="79460" started-at="2019-09-12T22:03:06 IST" finished-at="2019-09-12T22:04:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_admin -->
+        <test-method status="PASS" signature="hotel_view()[pri:2, instance:h.ra.h.ra.admin@6e6c3152]" name="hotel_view" duration-ms="5937" started-at="2019-09-12T22:04:26 IST" finished-at="2019-09-12T22:04:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotel_view -->
+        <test-method status="PASS" signature="remove()[pri:3, instance:h.ra.h.ra.admin@6e6c3152]" name="remove" duration-ms="18802" started-at="2019-09-12T22:04:32 IST" finished-at="2019-09-12T22:04:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove -->
+        <test-method status="PASS" signature="view_flight_booking()[pri:4, instance:h.ra.h.ra.admin@6e6c3152]" name="view_flight_booking" duration-ms="4747" started-at="2019-09-12T22:04:51 IST" finished-at="2019-09-12T22:04:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_flight_booking -->
+        <test-method status="PASS" signature="remove_flight_booking()[pri:5, instance:h.ra.h.ra.admin@6e6c3152]" name="remove_flight_booking" duration-ms="6210" started-at="2019-09-12T22:04:55 IST" finished-at="2019-09-12T22:05:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove_flight_booking -->
+        <test-method status="PASS" signature="add_tours()[pri:6, instance:h.ra.h.ra.admin@6e6c3152]" name="add_tours" duration-ms="41139" started-at="2019-09-12T22:05:02 IST" finished-at="2019-09-12T22:05:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_tours -->
+        <test-method status="PASS" signature="edit_tours()[pri:7, instance:h.ra.h.ra.admin@6e6c3152]" name="edit_tours" duration-ms="10012" started-at="2019-09-12T22:05:43 IST" finished-at="2019-09-12T22:05:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_tours -->
+        <test-method status="PASS" signature="delete_tours()[pri:8, instance:h.ra.h.ra.admin@6e6c3152]" name="delete_tours" duration-ms="4719" started-at="2019-09-12T22:05:53 IST" finished-at="2019-09-12T22:05:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_tours -->
+        <test-method status="PASS" signature="search()[pri:9, instance:h.ra.h.ra.admin@6e6c3152]" name="search" duration-ms="5706" started-at="2019-09-12T22:05:58 IST" finished-at="2019-09-12T22:06:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="edit_car()[pri:10, instance:h.ra.h.ra.admin@6e6c3152]" name="edit_car" duration-ms="8726" started-at="2019-09-12T22:06:03 IST" finished-at="2019-09-12T22:06:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_car -->
+        <test-method status="PASS" signature="delete_car()[pri:11, instance:h.ra.h.ra.admin@6e6c3152]" name="delete_car" duration-ms="7649" started-at="2019-09-12T22:06:12 IST" finished-at="2019-09-12T22:06:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_car -->
+        <test-method status="PASS" signature="search_Car()[pri:12, instance:h.ra.h.ra.admin@6e6c3152]" name="search_Car" duration-ms="6130" started-at="2019-09-12T22:06:20 IST" finished-at="2019-09-12T22:06:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Car -->
+        <test-method status="PASS" signature="close()[pri:0, instance:h.ra.h.ra.admin@6e6c3152]" name="close" is-config="true" duration-ms="25" started-at="2019-09-12T22:06:26 IST" finished-at="2019-09-12T22:06:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- h.ra.h.ra.admin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
